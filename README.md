@@ -1,3 +1,5 @@
+# Programing Language
+
 ## Basic Syntax
 
 ```js
@@ -17,7 +19,9 @@ if ("__main__" == __name__) : exec(<main/>)
 
 ### Function
 ```js
-<name print("Hello World")/>
+<name
+    print("Hello World")
+/>
 
 if ("__main__" == __name__) : exec(<name/>) 
 ```
