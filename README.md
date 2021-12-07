@@ -40,6 +40,9 @@ else : print()
 ## License
 - [Mozilla Public License Version 2.0](https://www.mozilla.org/en-US/MPL/2.0/)
 
+## Trademark
+- (c) Sijey 2020 - 2021
+
 ## Powered by Open source
 ![os-logo](https://opensource.org/files/osi_symbol_0.png) 
 
