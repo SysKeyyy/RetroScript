@@ -11,6 +11,8 @@ import "webbrowser, syshost"
     target = syshost.run("127.0.0.1", 5000, res)
     webbrowser.open(target.url)
 />
+
+if ("__main__" == __name__) : exec(<main/>) 
 ```
 
 
