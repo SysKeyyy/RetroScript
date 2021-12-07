@@ -6,6 +6,7 @@ A Programming language for General purpose and Building Android & Cross-platform
 
 ## Team
 - [**Sijey Praveen**](https://github.com/sijey-praveen/)
+- [**Varun**](https://github.com/HackerNAILAIamDev/)
 
 ## Get Started
 
