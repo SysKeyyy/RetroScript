@@ -12,9 +12,7 @@ A Programming language for General purpose and Building Android & Cross-platform
 import "webbrowser, syshost"
 
 <main
-    res=(
-        <h1>Hello World</h1>
-    )
+    res = (<h1>Hello World</h1>)
     target = syshost.run("127.0.0.1", 5000, res)
     webbrowser.open(target.url)
 />
