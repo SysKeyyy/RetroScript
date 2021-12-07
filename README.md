@@ -37,10 +37,10 @@ print("Hello World")
 ### Variable
 ```js
 str greeting = "Hey! Hi Bro"
-print(greeting) 
 
 int numbers = 1234567890
-print(numbers) 
+
+array list = ["a", "b"]
 ```
 
 ## License
