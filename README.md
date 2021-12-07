@@ -1,6 +1,9 @@
-# Programing Language
+## About
+A Programming language for General purpose and Building Android & Cross-platform Apps with Easy Syntax.
+*** was written in JavaScript and Founded on 7th December 2021.
 
-## Basic Syntax
+## Get Started
+- **Basic Syntax**
 
 ```js
 
@@ -17,7 +20,7 @@ import "webbrowser, syshost"
 if ("__main__" == __name__) : exec(<main/>) 
 ```
 
-### Function
+- **Function**
 ```js
 <name
     print("Hello World")
@@ -25,7 +28,7 @@ if ("__main__" == __name__) : exec(<main/>)
 
 if ("__main__" == __name__) : exec(<name/>) 
 ```
-### If else Statement
+- **If else Statement**
 ```js
 if () : print() 
 elif () : print() 
@@ -34,5 +37,3 @@ else : print()
 
 ## License
 - [Mozilla Public License Version 2.0](https://www.mozilla.org/en-US/MPL/2.0/)
-
-### We ❤️ Open Source.
