@@ -2,7 +2,7 @@
 
 ## About
 A Programming language for General purpose and Building Android & Cross-platform Apps with Easy Syntax.
-*** was written in JavaScript and Founded on Tuesday, 7th December 2021.
+*** was written in JavaScript and Founded on Tuesday, 7th December 2021. *** released under [Mozilla Public License]() 
 
 ## Get Started
 - **Basic Syntax**
