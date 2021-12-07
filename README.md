@@ -1,7 +1,7 @@
 # [Name]() 
 
 ## About
-A Programming language for General purpose and Building Android & Cross-platform Apps with Easy Syntax.
+A Programming language for General purpose with Easy Syntax.
 *** was written in JavaScript and Founded on Tuesday, 7th December 2021. *** released under [Mozilla Public License]() 
 
 ## Team
@@ -16,13 +16,13 @@ A Programming language for General purpose and Building Android & Cross-platform
     print("Hello World")
 />
 
-if ("__main__" == __name__) : exec(<name/>) 
+exec()
 ```
-### If else Statement
+### If elif else Statement
 ```js
-if () : print()
-elif () : print()
-else : print()
+if () > // do something
+elif () > // do something
+else > // do something
 ```
 ### Import
 ```js
@@ -34,7 +34,7 @@ import ""
 print("Hello World")
 ```
 
-### Variable
+### Variables
 ```js
 str greeting = "Hey! Hi Bro"
 
