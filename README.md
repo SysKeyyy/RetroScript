@@ -4,6 +4,9 @@
 A Programming language for General purpose and Building Android & Cross-platform Apps with Easy Syntax.
 *** was written in JavaScript and Founded on Tuesday, 7th December 2021. *** released under [Mozilla Public License]() 
 
+## Team
+- [**Sijey Praveen**](https://github.com/sijey-praveen/)
+
 ## Get Started
 
 ### Function
