@@ -1,6 +1,6 @@
 ## About
 A Programming language for General purpose and Building Android & Cross-platform Apps with Easy Syntax.
-*** was written in JavaScript and Founded on 7th December 2021.
+*** was written in JavaScript and Founded on Tuesday, 7th December 2021.
 
 ## Get Started
 - **Basic Syntax**
@@ -37,3 +37,6 @@ else : print()
 
 ## License
 - [Mozilla Public License Version 2.0](https://www.mozilla.org/en-US/MPL/2.0/)
+
+## Public Repository Meta
+- Repository Created at Tuesday, 7 December 2021 by [Sijey](https://github.com/sijey-praveen).
