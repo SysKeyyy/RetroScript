@@ -19,9 +19,9 @@ if ("__main__" == __name__) : exec(<name/>)
 ```
 ### If else Statement
 ```js
-if () : print() 
-elif () : print() 
-else : print() 
+if () : print()
+elif () : print()
+else : print()
 ```
 ### Import
 ```js
