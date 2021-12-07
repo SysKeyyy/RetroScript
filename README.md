@@ -12,11 +12,11 @@ A Programming language for General purpose with Easy Syntax.
 
 ### Function
 ```js
-<name
+<main
     print("Hello World")
 />
 
-exec()
+exec(<main/>)
 ```
 ### If elif else Statement
 ```js
