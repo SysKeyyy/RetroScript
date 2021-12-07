@@ -34,6 +34,15 @@ import ""
 print("Hello World")
 ```
 
+### Variable
+```js
+str greeting = "Hey! Hi Bro"
+print(greeting) 
+
+int numbers = 1234567890
+print(numbers) 
+```
+
 ## License
 - [Mozilla Public License Version 2.0](https://www.mozilla.org/en-US/MPL/2.0/)
 
