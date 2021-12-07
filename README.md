@@ -15,10 +15,20 @@ import "webbrowser, syshost"
 if ("__main__" == __name__) : exec(<main/>) 
 ```
 
+### Function
+```js
+<name print("Hello World")/>
+
+if ("__main__" == __name__) : exec(<name/>) 
+```
+### If else Statement
+```js
+if () : print() 
+elif () : print() 
+else : print() 
+```
 
 ## License
 - [Mozilla Public License Version 2.0](https://www.mozilla.org/en-US/MPL/2.0/)
-
-
 
 ### We ❤️ Open Source.
