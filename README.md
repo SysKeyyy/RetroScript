@@ -54,13 +54,11 @@ print("Hello World")
 
 ### Variables
 ```js
-str greeting = "Hey! Hi Bro"
+str greeting = Hey! Hi Bro
 
 int numbers = 1234567890
 
 array list = ["a", "b"]
-
-char greetings = "Welcome"
 
 const message = "Constant Variable"
 ```
