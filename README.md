@@ -6,7 +6,7 @@ A Programming language for General purpose with Easy Syntax.
 
 ## Downloads
 - Download using [OneDrive](https://1drv.ms/u/s!Apj-tlb1AVtXpFKNDyo-0ucwGodd?e=7h8Dlo).
-- Download using [Google Drive]().
+- Download using [Google Drive](https://drive.google.com/file/d/11ZEpra6RMrjk4FQUWeQW6LyKkRTYacg6/view?usp=sharing).
 
 ## Team
 - [**Sijey Praveen**](https://github.com/sijey-praveen/)
