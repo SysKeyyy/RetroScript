@@ -12,17 +12,27 @@ A Programming language for General purpose with Easy Syntax.
 
 ### Function
 ```js
-<main
-    print("Hello World")
-/>
-
-exec(<main/>)
+func main() {
+    print("Hello World") 
+}
+```
+### Class
+```js
+class main() {
+    func __init___(argv) {
+        self.argument = argv
+    }
+    
+    func log() {
+        print(self.argument) 
+    }
+}
 ```
 ### If elif else Statement
 ```js
-if () > // do something
-elif () > // do something
-else > // do something
+if () { # do something } 
+elif () { # do something }
+else { # do something }
 ```
 ### Import
 ```js
