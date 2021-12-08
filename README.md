@@ -2,7 +2,7 @@
 
 ## About
 A Programming language for General purpose with Easy Syntax.
-[Name]() was written in JavaScript and Founded on Tuesday, 7th December 2021 by [**Sijey Praveen**](https://github.com/sijey-praveen). [Name]() released under [Mozilla Public License]() 
+[Name]() is written in JavaScript and Founded at Tuesday, 7th December 2021 by [**Sijey Praveen**](https://github.com/sijey-praveen). [Name]() is released under [Mozilla Public License]() 
 
 ## Downloads
 - Download using [OneDrive](https://1drv.ms/u/s!Apj-tlb1AVtXpFKNDyo-0ucwGodd?e=7h8Dlo).
