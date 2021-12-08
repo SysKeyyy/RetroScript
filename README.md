@@ -38,7 +38,15 @@ else { # do something }
 ```js
 import ""
 ```
-
+### try / except Statement 
+```js
+try {
+    print("Hello World")
+}
+except Exception as char err {
+    print(err)
+}
+```
 ### Print Statement
 ```js
 print("Hello World")
