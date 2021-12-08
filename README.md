@@ -60,7 +60,7 @@ int numbers = 1234567890
 
 array list = ["a", "b"]
 
-const message = "Constant Variable"
+const message = Constant Variable
 ```
 
 ## License
